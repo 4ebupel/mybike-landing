@@ -3,6 +3,7 @@
 * [Design](#design)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [DEMO](#demo)
 
 ## General info
 This project is a single page MyBike landing.
@@ -25,3 +26,7 @@ To run this project, install it locally using npm:
 $ cd ../mybike-landing
 $ npm install
 $ npm start
+```
+
+## DEMO
+* [Demo link](https://4ebupel.github.io/mybike-landing/)
